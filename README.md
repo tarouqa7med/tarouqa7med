@@ -93,7 +93,7 @@ EXPLORE MY WORK
 
 </div>
 
-<br><br>
+<br>
 
 ⚡ Delici Restaurant ⚡
 
@@ -105,24 +105,24 @@ EXPLORE MY WORK
 
 </div>
 
-<br><br>
+<br>
 
-🔷 PROJECT 02 🔷
+🔷 Dine Out Restaurant 🔷
 
 <div align="center">
 
 <a href="https://github.com/tarouqa7med">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarouqa7med&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=071426&title_color=38BDF8"/>
+<img src="./projects_images/dine_out.png"/>
 </a>
 
 </div>
 
-🌌 PROJECT 03 🌌
+🌌 Fokir Project 🌌
 
 <div align="center">
 
 <a href="https://github.com/tarouqa7med">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarouqa7med&repo=REPLACE_WITH_PROJECT_3&theme=tokyonight&hide_border=true&bg_color=071426&title_color=38BDF8"/>
+<img src="./projects_images/fokir.png"/>
 </a>
 
 </div>
