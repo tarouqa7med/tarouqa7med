@@ -62,7 +62,7 @@ Currently: Learning, experimenting, and building new things.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+<img src="./svg/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
