@@ -93,17 +93,17 @@ EXPLORE MY WORK
 
 </div>
 
-⚡ PROJECT 01
+⚡ Delici Restaurant ⚡
 
 <div align="center">
 
-<a href="https://github.com/tarouqa7med">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarouqa7med&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=071426&title_color=38BDF8"/>
+<a href="https://tarouqa7med.github.io/Delici">
+<img src="./projects_images/delici.png"/>
 </a>
 
 </div>
 
-🔷 PROJECT 02
+🔷 PROJECT 02 🔷
 
 <div align="center">
 
@@ -113,7 +113,7 @@ EXPLORE MY WORK
 
 </div>
 
-🌌 PROJECT 03
+🌌 PROJECT 03 🌌
 
 <div align="center">
 
