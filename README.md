@@ -103,6 +103,8 @@ EXPLORE MY WORK
 
 </div>
 
+<br><br>
+
 🔷 PROJECT 02 🔷
 
 <div align="center">
