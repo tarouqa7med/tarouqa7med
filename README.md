@@ -93,7 +93,7 @@ Contributing to the developer community.
 <div align="center">
 
 <a href="https://github.com/tarouqa7med">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="./svg/GitHub-020617.svg"/>
 </a>
 
 <!-- Add LinkedIn, portfolio and email links when available -->
