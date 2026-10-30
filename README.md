@@ -77,9 +77,59 @@ MY CONTRIBUTION UNIVERSE
 <img src="https://img.shields.io/badge/05-PROJECTS-0284C7?style=flat-square"/>
 EXPLORE MY WORK
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:075985,100:00D9FF&height=3&section=header" width="100%"/>
+
+🚀 FEATURED PROJECTS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=600&lines=MY+WORK.+MY+PASSION.+MY+JOURNEY.;TURNING+CODE+INTO+REALITY." />
+
+<br/>
+
 <a href="https://github.com/tarouqa7med?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+⚡ PROJECT 01
+
+<div align="center">
+
+<a href="https://github.com/tarouqa7med">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarouqa7med&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=071426&title_color=38BDF8"/>
+</a>
+
+</div>
+
+🔷 PROJECT 02
+
+<div align="center">
+
+<a href="https://github.com/tarouqa7med">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarouqa7med&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=071426&title_color=38BDF8"/>
+</a>
+
+</div>
+
+🌌 PROJECT 03
+
+<div align="center">
+
+<a href="https://github.com/tarouqa7med">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tarouqa7med&repo=REPLACE_WITH_PROJECT_3&theme=tokyonight&hide_border=true&bg_color=071426&title_color=38BDF8"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/MORE_PROJECTS-CHECK_MY_GITHUB-0284C7?style=for-the-badge&logo=github"/>
+
+</div>
 
 <br/><br/>
 
