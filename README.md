@@ -146,6 +146,8 @@ Discover my repositories, experiments, and development journey.
 <div align="center">
 
 <img src="https://img.shields.io/badge/06-CURRENT%20MISSION-0284C7?style=flat-square"/>
+
+
 Mission	Status
 Learning new technologies	IN PROGRESS
 Building useful projects	IN PROGRESS
