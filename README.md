@@ -1,6 +1,7 @@
 
 <div align="center" style="display: block;">
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B3B75,70:0284C7,100:22D3EE&height=240&section=header&text=TAROUQ%20AHMED&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=16&descAlignY=60" />
+        <img src="./svg/ascii-portrait.svg">
         <a href="https://github.com/tarouqa7med">
                 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=SOFTWARE+DEVELOPER+%F0%9F%9A%80;BUILDING+THINGS+THAT+MATTER;TURNING+IDEAS+INTO+REALITY;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Animated introduction" />
         </a>
@@ -13,7 +14,6 @@
         </a>
 </div>
 
-<img src="./svg/ascii-portrait.svg">
 
 <div align="center" style="display: block;">01 — ABOUT ME
         Building ideas into digital experiences.
