@@ -56,31 +56,51 @@
 
 04 — CONTRIBUTION ACTIVITY
 
-<div align="center" style="display: block;"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarouqa7med&bg_color=071426&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph" /><img width="100%" src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div>05 — FEATURED PROJECTS
-<div align="center" style="display: block;"><p>Selected work from my development journey.</p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=620&height=35&lines=DESIGN.+DEVELOP.+DELIVER.;SMALL+STEPS.+MEANINGFUL+PROJECTS." alt="Projects tagline" /></div>🍽️ Delici Restaurant
-<div align="center" style="display: block;">  <a href="https://tarouqa7med.github.io/Delici" style="display: block;">
-    <img src="./assests/projects_images/delici.png" width="85%" alt="Delici Restaurant project preview" />
-  </a>
-  <a href="https://tarouqa7med.github.io/Delici" style="display: block;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=500&color=FFFFFF&center=true&vCenter=true&width=310&height=48&lines=%E2%96%B6+OPEN+LIVE+DEMO;%E2%9C%A8+EXPLORE+THE+WEBSITE" alt="Animated live demo link" />
-  </a>
-  <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
-    <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-071426?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repository" />
-  </a></div>🔷 Dine Out Restaurant
-<div align="center" style="display: block;">  <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
-    <img src="./assests/projects_images/dine_out.png" width="85%" alt="Dine Out Restaurant project preview" />
-  </a>
-  <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=600&color=FFFFFF&center=true&vCenter=true&width=310&height=48&lines=%E2%9C%A6+EXPLORE+PROJECT;%F0%9F%94%8E+VIEW+ON+GITHUB" alt="Animated project link" />
-  </a></div>🌌 Fokir Project
-<div align="center" style="display: block;">  <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
-    <img src="./assests/projects_images/fokir.png" width="85%" alt="Fokir project preview" />
-  </a>
-  <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=600&color=FFFFFF&center=true&vCenter=true&width=310&height=48&lines=%E2%9C%A6+EXPLORE+PROJECT;%F0%9F%94%8E+VIEW+ON+GITHUB" alt="Animated project link" />
-  </a></div><div align="center" style="display: block;"><a href="https://github.com/tarouqa7med?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
-</a></div>06 — CURRENT FOCUS
+<div align="center" style="display: block;"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarouqa7med&bg_color=071426&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph" /><img width="100%" src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div>
+
+
+05
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&amp;season=2&amp;episode=Episode+9&amp;synopsis=Employees+at+Lumon+Industries+have+their+work+memories+divided&amp;genre=Sci-Fi+Thriller&amp;match=98&amp;quality=4K&amp;style=classic&amp;img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FRb7sga832Cyqvafd7CqOzbwdK4.jpg" alt="Netflix hero" /><br/>
+      <code>style=classic</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/netflix-card?title=The+Bear&amp;episode=S3+E8&amp;genre=Drama&amp;match=99&amp;quality=HD&amp;rating=TV-MA&amp;style=slim&amp;img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FkmKOXOC6txne2tXjcnZPHNtsY9E.jpg" alt="Netflix slim" /><br/>
+      <code>style=slim</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/youtube-card?title=Why+I+Quit+Using+Next.js&amp;channel=Theo&amp;subscribers=520K&amp;views=248K&amp;likes=12.1K&amp;duration=18%3A42&amp;verified=true&amp;style=default&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FmMQCLQTky34%2Fmaxresdefault.jpg" alt="YouTube card" /><br/>
+      <code>/api/youtube-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/youtube-card?title=JavaScript+in+100+Seconds&amp;channel=Fireship&amp;subscribers=2.8M&amp;views=1.4M&amp;likes=87K&amp;duration=2%3A32&amp;verified=true&amp;style=slim&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="YouTube slim" /><br/>
+      <code>style=slim</code>
+    </td>
+  </tr>
+</table>
+
+**Social Media**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/instagram-card?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
+      <code>/api/instagram-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/tiktok-card?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <code>/api/tiktok-card</code>
+    </td>
+  </tr>
+</table>
+
+
+06 — CURRENT FOCUS
 <div align="center" style="display: block;">Mission	Status
 Learning new technologies	IN PROGRESS
 Building useful projects	IN PROGRESS
