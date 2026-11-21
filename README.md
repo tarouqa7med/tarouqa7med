@@ -20,7 +20,7 @@
         </p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=35&lines=Always+learning+%E2%9A%A1;Always+building+%F0%9F%9B%A0%EF%B8%8F;Always+improving+%F0%9F%94%A5" alt="Personal motto" />
 </div>
 
-<img src="./svg/ascii-portrait.svg" alt="Personal motto" /> 
+<img src="./svg/ascii-portrait.svg" alt="Personal motto" />
 
 02 — TECH STACK
 
