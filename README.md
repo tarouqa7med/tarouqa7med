@@ -4,7 +4,7 @@
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B3B75,70:0284C7,100:22D3EE&height=300&section=header&text=TAROUQ%20AHMED&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20ANGULAR%20AND%20LARAVEL&descSize=16&descAlignY=60" />
         <!-- MY X-RAY PICTURE -->
         <img src="./assests/profile.png" width="300" height="300">
-        <br><br>
+        <br>
         <!--  -->
         <a href="https://github.com/tarouqa7med">
                 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=SOFTWARE+DEVELOPER+%F0%9F%9A%80;BUILDING+THINGS+THAT+MATTER;TURNING+IDEAS+INTO+REALITY;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Animated introduction" />
@@ -17,6 +17,8 @@
                 <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
         </a>
 </div>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
 
 <div align="center" style="display: block;">01 — ABOUT ME
         Building ideas into digital experiences.
