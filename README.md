@@ -64,31 +64,6 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&amp;season=2&amp;episode=Episode+9&amp;synopsis=Employees+at+Lumon+Industries+have+their+work+memories+divided&amp;genre=Sci-Fi+Thriller&amp;match=98&amp;quality=4K&amp;style=classic&amp;img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FRb7sga832Cyqvafd7CqOzbwdK4.jpg" alt="Netflix hero" /><br/>
-      <code>style=classic</code>
-    </td>
-    <td align="center">
-      <img src="https://coolreadme.xyz/api/netflix-card?title=The+Bear&amp;episode=S3+E8&amp;genre=Drama&amp;match=99&amp;quality=HD&amp;rating=TV-MA&amp;style=slim&amp;img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FkmKOXOC6txne2tXjcnZPHNtsY9E.jpg" alt="Netflix slim" /><br/>
-      <code>style=slim</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://coolreadme.xyz/api/youtube-card?title=Why+I+Quit+Using+Next.js&amp;channel=Theo&amp;subscribers=520K&amp;views=248K&amp;likes=12.1K&amp;duration=18%3A42&amp;verified=true&amp;style=default&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FmMQCLQTky34%2Fmaxresdefault.jpg" alt="YouTube card" /><br/>
-      <code>/api/youtube-card</code>
-    </td>
-    <td align="center">
-      <img src="https://coolreadme.xyz/api/youtube-card?title=JavaScript+in+100+Seconds&amp;channel=Fireship&amp;subscribers=2.8M&amp;views=1.4M&amp;likes=87K&amp;duration=2%3A32&amp;verified=true&amp;style=slim&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="YouTube slim" /><br/>
-      <code>style=slim</code>
-    </td>
-  </tr>
-</table>
-
-**Social Media**
-
-<table>
-  <tr>
-    <td align="center">
       <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
       <code>/api/instagram-card</code>
     </td>
