@@ -18,7 +18,10 @@
         </a>
 </div>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
+<div align="center">
+        [![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
+</div>
+
 
 <div align="center" style="display: block;">01 — ABOUT ME
         Building ideas into digital experiences.
