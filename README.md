@@ -68,7 +68,7 @@
       <code>/api/instagram-card</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/tiktok-card?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
       <code>/api/tiktok-card</code>
     </td>
   </tr>
@@ -78,7 +78,7 @@
       <code>/api/instagram-card</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/tiktok-card?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
       <code>/api/tiktok-card</code>
     </td>
   </tr>
@@ -88,7 +88,7 @@
       <code>/api/instagram-card</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/tiktok-card?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
       <code>/api/tiktok-card</code>
     </td>
   </tr>
@@ -98,7 +98,7 @@
       <code>/api/instagram-card</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/tiktok-card?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
       <code>/api/tiktok-card</code>
     </td>
   </tr>
