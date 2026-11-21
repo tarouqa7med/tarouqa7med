@@ -59,13 +59,14 @@
 <div align="center" style="display: block;"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarouqa7med&bg_color=071426&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph" /><img width="100%" src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div>
 
 
-05
+top projects with their source code & demo
 
 <table>
   <tr>
     <td align="center">
       <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
-      <code>/api/instagram-card</code>
+      <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
+      <a href="https://tarouqa7med.github.io/Delici">Demo</a>
     </td>
     <td align="center">
       <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
