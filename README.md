@@ -1,3 +1,5 @@
+<img src="./svg/ascii-portrait.svg">
+
 <div align="center" style="display: block;">
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B3B75,70:0284C7,100:22D3EE&height=240&section=header&text=TAROUQ%20AHMED&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=16&descAlignY=60" />
         <a href="https://github.com/tarouqa7med">
