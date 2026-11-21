@@ -64,48 +64,56 @@ top projects with their source code & demo
 <table>
   <tr>
     <td align="center">
-      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
+      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
       <a href="https://tarouqa7med.github.io/Delici">Demo</a>
     </td>
     <td align="center">
-      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
       <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
+      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
       <a href="https://tarouqa7med.github.io/Delici">Demo</a>
     </td>
     <td align="center">
-      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
       <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
+      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
       <a href="https://tarouqa7med.github.io/Delici">Demo</a>
     </td>
     <td align="center">
-      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
       <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
+      <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
       <a href="https://tarouqa7med.github.io/Delici">Demo</a>
     </td>
     <td align="center">
-      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <br/>
       <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
       <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
     </td>
