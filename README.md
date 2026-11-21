@@ -19,7 +19,8 @@
 </div>
 
 <div align="center">
-        [![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
 </div>
 
 
