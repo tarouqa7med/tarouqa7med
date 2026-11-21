@@ -1,7 +1,7 @@
 
 <div align="center" style="display: block;">
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B3B75,70:0284C7,100:22D3EE&height=240&section=header&text=TAROUQ%20AHMED&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=16&descAlignY=60" />
-        <img src="./svg/ascii-portrait.svg">
+        <img src="./assests/profile.webp">
         <a href="https://github.com/tarouqa7med">
                 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=SOFTWARE+DEVELOPER+%F0%9F%9A%80;BUILDING+THINGS+THAT+MATTER;TURNING+IDEAS+INTO+REALITY;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Animated introduction" />
         </a>
@@ -48,7 +48,7 @@
 <div align="center" style="display: block;"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarouqa7med&bg_color=071426&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph" /><img width="100%" src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div>05 — FEATURED PROJECTS
 <div align="center" style="display: block;"><p>Selected work from my development journey.</p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=620&height=35&lines=DESIGN.+DEVELOP.+DELIVER.;SMALL+STEPS.+MEANINGFUL+PROJECTS." alt="Projects tagline" /></div>🍽️ Delici Restaurant
 <div align="center" style="display: block;">  <a href="https://tarouqa7med.github.io/Delici" style="display: block;">
-    <img src="./projects_images/delici.png" width="85%" alt="Delici Restaurant project preview" />
+    <img src="./assests/projects_images/delici.png" width="85%" alt="Delici Restaurant project preview" />
   </a>
   <a href="https://tarouqa7med.github.io/Delici" style="display: block;">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=500&color=FFFFFF&center=true&vCenter=true&width=310&height=48&lines=%E2%96%B6+OPEN+LIVE+DEMO;%E2%9C%A8+EXPLORE+THE+WEBSITE" alt="Animated live demo link" />
@@ -57,13 +57,13 @@
     <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-071426?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repository" />
   </a></div>🔷 Dine Out Restaurant
 <div align="center" style="display: block;">  <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
-    <img src="./projects_images/dine_out.png" width="85%" alt="Dine Out Restaurant project preview" />
+    <img src="./assests/projects_images/dine_out.png" width="85%" alt="Dine Out Restaurant project preview" />
   </a>
   <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=600&color=FFFFFF&center=true&vCenter=true&width=310&height=48&lines=%E2%9C%A6+EXPLORE+PROJECT;%F0%9F%94%8E+VIEW+ON+GITHUB" alt="Animated project link" />
   </a></div>🌌 Fokir Project
 <div align="center" style="display: block;">  <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
-    <img src="./projects_images/fokir.png" width="85%" alt="Fokir project preview" />
+    <img src="./assests/projects_images/fokir.png" width="85%" alt="Fokir project preview" />
   </a>
   <a href="https://github.com/tarouqa7med?tab=repositories" style="display: block;">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=600&color=FFFFFF&center=true&vCenter=true&width=310&height=48&lines=%E2%9C%A6+EXPLORE+PROJECT;%F0%9F%94%8E+VIEW+ON+GITHUB" alt="Animated project link" />
