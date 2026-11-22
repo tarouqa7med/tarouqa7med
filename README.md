@@ -3,7 +3,7 @@
 <!-- BLUE WAVE WITH MY NAME -->
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B3B75,70:0284C7,100:22D3EE&height=300&section=header&text=TAROUQ%20AHMED&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20ANGULAR%20AND%20LARAVEL&descSize=16&descAlignY=60" />
         <!-- MY X-RAY PICTURE -->
-        <img src="./assests/profile.png" width="350" height="350">
+        <img src="./assests/profile.png" width="500" height="500">
         <br><br>
         <!--  -->
         <a href="https://github.com/tarouqa7med">
