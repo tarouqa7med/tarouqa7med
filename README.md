@@ -136,4 +136,4 @@ Exploring innovative ideas	IN PROGRESS
 
 
 Thanks for visiting my digital space!
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=560&height=38&lines=BUILD+THE+FUTURE+%F0%9F%9A%80;THINK+BEYOND+LIMITS+%E2%9A%A1;NEVER+STOP+CREATING+%F0%9F%94%A5" alt="Closing animation" /><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,40:087BC0,100:020617&height=140&section=footer&animation=fadeIn" /></div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=560&height=100&lines=BUILD+THE+FUTURE+%F0%9F%9A%80;THINK+BEYOND+LIMITS+%E2%9A%A1;NEVER+STOP+CREATING+%F0%9F%94%A5" alt="Closing animation" /><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,40:087BC0,100:020617&height=140&section=footer&animation=fadeIn" /></div>
