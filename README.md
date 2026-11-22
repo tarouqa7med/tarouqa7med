@@ -26,13 +26,13 @@
 </div>
 
 
-<div align="center" style="display: block;">01 — ABOUT ME
-        Building ideas into digital experiences.
-        <p>I'm <strong>Tarouq Ahmed</strong>, a developer passionate about technology, software engineering, and creating meaningful digital experiences.
-        <br/>
-        I enjoy learning, solving problems, and transforming ideas into practical projects.
-        </p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=35&lines=Always+learning+%E2%9A%A1;Always+building+%F0%9F%9B%A0%EF%B8%8F;Always+improving+%F0%9F%94%A5" alt="Personal motto" />
-</div>
+<table align="center" style="display: block;">
+<td  align="center">
+        <details><summary>Current year</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" alt=""></img></details>
+        <details open><summary>Full history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+</table>
 
 
 02 — TECH STACK
