@@ -1,4 +1,3 @@
-![Uploading profile.png…]()
 
 <div align="center" style="display: block;">
 <!-- BLUE WAVE WITH MY NAME -->
