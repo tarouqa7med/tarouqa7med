@@ -28,8 +28,8 @@
 
 <table align="center" style="display: block;">
         <td  align="center">
-                <details open><summary>Repositories from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
-                <details open><summary>Languages from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
+                <details open><summary>Repositories</summary><img alt="" width="400" src="https://github.com/tarouqa7med/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
+                <details open><summary>Languages from star lists</summary><img alt="" width="400" src="https://github.com/tarouqa7med/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
                 <img width="900" height="1" alt="">
         </td>
 </table>
