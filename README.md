@@ -37,15 +37,15 @@
 
 <div align="center" style="display: block;">
         <a href="https://github.com/tarouqa7med">
-                <img width="750" src="https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
+                <img width="500" src="https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
         </a>
         <a href="https://github.com/tarouqa7med">
-                <img width="750" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarouqa7med&layout=compact&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages" />
+                <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarouqa7med&layout=compact&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages" />
         </a>
-        <img width="750" src="https://streak-stats.demolab.com?user=tarouqa7med&hide_border=true&background=071426&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+        <img width="500" src="https://streak-stats.demolab.com?user=tarouqa7med&hide_border=true&background=071426&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
 </div>
 
-<div align="center"><img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=tarouqa7med&bg_color=071426&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph" /><img width="100%" src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div>
+<div align="center"><img width="500px" src="https://github-readme-activity-graph.vercel.app/graph?username=tarouqa7med&bg_color=071426&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph" /><img width="100%" src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div>
 
 
 top projects with their source code & demo
