@@ -59,10 +59,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -73,10 +73,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -89,10 +89,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -103,10 +103,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -119,10 +119,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -133,10 +133,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -149,10 +149,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -163,10 +163,10 @@ top projects with their source code & demo
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="75px" src="./assests/source-code.gif" />
+          <img width="25%" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="75px" src="./assests/demo.gif" />
+          <img width="25%" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
