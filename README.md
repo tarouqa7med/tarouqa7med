@@ -1,7 +1,7 @@
 
 <div align="center" style="display: block;">
         <!-- MY X-RAY PICTURE -->
-        <img src="./assests/Gemini_Generated_Gif_sqg6kzsqg6kzsqg6.gif" width="100%" height="500">
+        <img src="./assests/header.gif" width="100%" height="500">
         <br><br>
         <!--  -->
         <a href="https://github.com/tarouqa7med">
@@ -57,16 +57,24 @@ top projects with their source code & demo
       &emsp;
       <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Delici">Demo</a>
+      <a href="https://github.com/tarouqa7med/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
     <td align="center">
       &emsp;
       <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
+      <a href="https://github.com/tarouqa7med/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
   </tr>
@@ -75,16 +83,24 @@ top projects with their source code & demo
       &emsp;
       <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Delici">Demo</a>
+      <a href="https://github.com/tarouqa7med/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
     <td align="center">
       &emsp;
       <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
+      <a href="https://github.com/tarouqa7med/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
   </tr>
@@ -93,16 +109,24 @@ top projects with their source code & demo
       &emsp;
       <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Delici">Demo</a>
+      <a href="https://github.com/tarouqa7med/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
     <td align="center">
       &emsp;
       <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
+      <a href="https://github.com/tarouqa7med/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
   </tr>
@@ -111,16 +135,24 @@ top projects with their source code & demo
       &emsp;
       <img src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Delici">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Delici">Demo</a>
+      <a href="https://github.com/tarouqa7med/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Delici">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
     <td align="center">
       &emsp;
       <img src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       <br/>
-      <a href="https://github.com/tarouqa7med/Fokir">Source Code</a>
-      <a href="https://tarouqa7med.github.io/Fokir">Demo</a>
+      <a href="https://github.com/tarouqa7med/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
+      <a href="https://tarouqa7med.github.io/Fokir">
+        <img src="./assests/source-code.gif" />
+      </a>
       &emsp;
     </td>
   </tr>
