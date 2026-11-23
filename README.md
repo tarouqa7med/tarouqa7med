@@ -27,7 +27,9 @@
 
 <div align="center" style="display: block;">
         Technologies & tools
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode&theme=dark&perline=5" alt="Technology stack" /><sub>Tools and technologies I work with and continue to explore.</sub>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode&theme=dark&perline=5" alt="Technology stack" /><sub>
+        <br>
+        Tools and technologies I work with and continue to explore.</sub>
 </div>
 
 03 — GITHUB ANALYTICS
