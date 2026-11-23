@@ -1,7 +1,7 @@
 
 <div align="center" style="display: block;">
         <!-- MY X-RAY PICTURE -->
-        <img src="./assests/Gemini_Generated_Gif_sqg6kzsqg6kzsqg6.gif" width="500" height="500">
+        <img src="./assests/Gemini_Generated_Gif_sqg6kzsqg6kzsqg6.gif" width="100%" height="500">
         <br><br>
         <!--  -->
         <a href="https://github.com/tarouqa7med">
