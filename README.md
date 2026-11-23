@@ -23,8 +23,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
 </div>
 
-02 — TECH STACK
-
+<br>
 <div align="center">
   Technologies & tools
   <br><br>
