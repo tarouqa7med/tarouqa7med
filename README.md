@@ -25,11 +25,12 @@
 
 02 — TECH STACK
 
-<div align="center" style="display: block;">
-        Technologies & tools
-        <img src="https://skillicons.dev/icons?i=html, css,bootstrap,js,jquery,sass,ts,angular,nodejs,git,github,vscode&theme=dark&perline=5" alt="Technology stack" /><sub>
-        <br>
-        Tools and technologies I work with and continue to explore.</sub>
+<div align="center">
+  Technologies & tools
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,sass,ts,angular,nodejs,git,github,vscode&theme=dark&perline=5" alt="Technology stack" /><sub>
+  <br>
+  Tools and technologies I work with and continue to explore.</sub>
 </div>
 
 03 — GITHUB ANALYTICS
