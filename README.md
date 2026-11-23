@@ -165,15 +165,6 @@
   </tr>
 </table>
 
-
-06 — CURRENT FOCUS
-<div align="center" style="display: block;">Mission	Status
-Learning new technologies	IN PROGRESS
-Building useful projects	IN PROGRESS
-Improving development skills	IN PROGRESS
-Exploring innovative ideas	IN PROGRESS
-
-
 </div>07 — LET'S CONNECT
 <div align="center" style="display: block;"><a href="https://github.com/tarouqa7med">
   <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-071426?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile" />
