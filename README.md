@@ -32,8 +32,9 @@
   <br>
   Tools and technologies I work with and continue to explore.</sub>
 </div>
+<br><br>
 
-03 — GITHUB ANALYTICS
+~~ GITHUB ANALYTICS ~~
 
 <div align="center" style="display: block;">
         <a href="https://github.com/tarouqa7med">
