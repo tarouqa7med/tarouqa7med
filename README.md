@@ -55,15 +55,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -72,15 +72,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -89,15 +89,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -106,15 +106,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -123,15 +123,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -140,15 +140,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -157,15 +157,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/delici.png?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Delici">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Delici">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
@@ -174,15 +174,15 @@ top projects with their source code & demo
   <tr>
     <td align="center">
       &emsp;
-      <img width="500" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+      <img width="500" style="border: 1.25px groove #0099cc80; border-radius: 15px;" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
       &emsp;
       <br/>
       <div class="d-flex">
         <a href="https://github.com/tarouqa7med/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/source-code.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/source-code.gif" />
         </a>
         <a href="https://tarouqa7med.github.io/Fokir">
-          <img width="25%" class="rounded-3" src="./assests/demo.gif" />
+          <img width="25%" style="border: 1px solid #09c; border-radius: 12px" src="./assests/demo.gif" />
         </a>
       </div>
       &emsp;
