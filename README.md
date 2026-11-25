@@ -54,7 +54,7 @@
         <h3>-x-{{{ LATEST --->>> OLDEST }}}-x-</h3>
 </div>
 
-<table>
+<table align="center">
         <tr>
                 <td align="center">
                         <br>
