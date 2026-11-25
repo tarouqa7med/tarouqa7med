@@ -23,7 +23,6 @@
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
 </div>
-<br>
 
 <div align="center">
         <h3>Technologies & tools</h3>
