@@ -50,6 +50,8 @@
   <img width="100%" src="https://raw.githubusercontent.com/tarouqa7med/tarouqa7med/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </div>
 <br>
+
+
 <div align="center">
   <h1>My top projects with their source code & demo</h1>
 </div>
