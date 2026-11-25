@@ -235,7 +235,7 @@
                 <td align="center">
                         <br>
                         <a href="https://tarouqa7med.github.io/GYM-Plus">
-                                <img width="100%" src="./assests/projects_gif/gym-plus.gif.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                                <img width="100%" src="./assests/projects_gif/gym-plus.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
                         <a href="https://github.com/tarouqa7med/GYM-Plus">
