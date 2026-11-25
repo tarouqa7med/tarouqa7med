@@ -3,7 +3,6 @@
         <!-- MY X-RAY PICTURE -->
         <img src="./assests/header.gif" width="100%" height="100%">
         <br><br>
-        <!--  -->
         <a href="https://github.com/tarouqa7med">
                 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=SOFTWARE+DEVELOPER+%F0%9F%9A%80;BUILDING+THINGS+THAT+MATTER;TURNING+IDEAS+INTO+REALITY;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Animated introduction" />
         </a>
@@ -15,34 +14,37 @@
                 <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
         </a>
 </div>
-
 <br>
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
+  [![Stats](https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&theme=radical&hide_border=true)](https://github.com/tarouqa7med)
 </div>
-
 <br>
+
 <div align="center">
-  Technologies & tools
-  <br><br>
-  <img width="350px" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,sass,ts,angular,nodejs,git,github,php,laravel,mysql,vscode&theme=dark&perline=5" alt="Technology stack" /><sub>
-  <br>
-  Tools and technologies I work with and continue to explore.</sub>
+        <h4>Technologies & tools</h4>
+        <br><br>
+        <img width="350px" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,sass,ts,angular,nodejs,git,github,php,laravel,mysql,vscode&theme=dark&perline=5" alt="Technology stack" />
+        <br>
+        <sub>
+                <h4>Tools and technologies I work with and continue to explore.</h4>
+        </sub>
 </div>
 <br><br>
 
-~~ GITHUB ANALYTICS ~~
+<div align="center">
+        <h1>GITHUB ANALYTICS</h1>
+</div>
 
 <div align="center" style="display: block;">
-  <a href="https://github.com/tarouqa7med">
-    <img src="https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/tarouqa7med">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarouqa7med&layout=compact&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages" />
-  </a>
-  <img width="500px" src="https://streak-stats.demolab.com?user=tarouqa7med&hide_border=true&background=071426&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+        <a href="https://github.com/tarouqa7med">
+                <img src="https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&hide_border=false&bg_color=071426&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
+        </a>
+        <a href="https://github.com/tarouqa7med">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarouqa7med&layout=compact&hide_border=false&bg_color=071426&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages" />
+        </a>
+        <img width="500px" src="https://streak-stats.demolab.com?user=tarouqa7med&hide_border=true&background=071426&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
@@ -53,7 +55,8 @@
 
 
 <div align="center">
-  <h1>My top projects with their source code & demo</h1>
+        <h1>My top projects with their source code & demo</h1>
+        <h3>---{{{ from NEWEST to OLDEST }}}---</h3>
 </div>
 
 <table>
