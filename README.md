@@ -119,6 +119,22 @@
                   <br>
                 </td>
         </tr>
+        <!-- <tr>
+                <td align="center">
+                  <br>
+                  <a href="https://tarouqa7med.github.io/Eggs_Game">
+                          <img width="100%" src="./assests/projects_gif/eggs_game.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                  </a>
+                  <br>
+                  <a href="https://github.com/tarouqa7med/Eggs_Game">
+                          <img width="100px" src="./assests/source-code.gif" />
+                  </a>
+                  <a href="https://tarouqa7med.github.io/Eggs_Game">
+                          <img width="100px" src="./assests/demo.gif" />
+                  </a>
+                  <br>
+                </td>
+        </tr> -->
         <tr>
                 <td align="center">
                         <br>
