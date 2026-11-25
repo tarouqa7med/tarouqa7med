@@ -64,7 +64,7 @@
                                 <img width="100%" src="./assests/projects_gif/gallery_angular.gif?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
-                        <h5>Gallery project with Angular</h5>
+                        <h4>Gallery project with Angular</h4>
                         <a href="https://github.com/tarouqa7med/Gallery_Angular">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
