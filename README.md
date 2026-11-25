@@ -7,12 +7,15 @@
                 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=SOFTWARE+DEVELOPER+%F0%9F%9A%80;BUILDING+THINGS+THAT+MATTER;TURNING+IDEAS+INTO+REALITY;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Animated introduction" />
         </a>
         <img src="https://komarev.com/ghpvc/?username=tarouqa7med&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" />
+        <br>
         <a href="https://github.com/tarouqa7med?tab=followers">
                 <img src="https://img.shields.io/github/followers/tarouqa7med?style=for-the-badge&logo=github&label=FOLLOWERS&color=0EA5E9" />
         </a>
+        <br>
         <a href="https://github.com/tarouqa7med?tab=repositories">
                 <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
         </a>
+        <br>
 </div>
 <br>
 
