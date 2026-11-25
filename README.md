@@ -296,10 +296,12 @@
                 </td>
         </tr>
 </table>
+<br>
 
-</div>07 — LET'S CONNECT
-<div align="center" style="display: block;"><a href="https://github.com/tarouqa7med">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-071426?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile" />
-</a>
-
-<img width="100%" height="400px" src="./assests/footer.gif">
+<div align="center" style="display: block;">
+        <h1>LET'S CONNECT</h1>
+        <a href="https://github.com/tarouqa7med">
+                <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-071426?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile" />
+        </a>
+        <img width="100%" height="400px" src="./assests/footer.gif">
+</div>
