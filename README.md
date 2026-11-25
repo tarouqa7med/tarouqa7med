@@ -309,7 +309,7 @@
         <a href="https://www.facebook.com/tarouqa7med">
                 <img src="https://img.shields.io/badge/Facebook-Follow%20me-071426?style=for-the-badge&logo=facebook&logoColor=38BDF8" alt="Facebook profile" />
         </a>
-        <a href="https://www.instagram.com/tarouqa7med">
+        <a href="https://www.instagram.com/t______m.98">
                 <img src="https://img.shields.io/badge/Instagram-Follow%20my%20journey-071426?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram profile" />
         </a>
         <a href="https://wa.me/201222897817">
