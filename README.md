@@ -303,17 +303,22 @@
         <a href="https://github.com/tarouqa7med">
                 <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-071426?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub profile" />
         </a>
+        <br>
         <a href="https://www.linkedin.com/in/tarouqa7med/">
                 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-071426?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn profile" />
         </a>
+        <br>
         <a href="https://www.facebook.com/tarouqa7med">
                 <img src="https://img.shields.io/badge/Facebook-Follow%20me-071426?style=for-the-badge&logo=facebook&logoColor=38BDF8" alt="Facebook profile" />
         </a>
+        <br>
         <a href="https://www.instagram.com/t______m.98">
                 <img src="https://img.shields.io/badge/Instagram-Follow%20my%20journey-071426?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram profile" />
         </a>
+        <br>
         <a href="https://wa.me/201222897817">
                 <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-071426?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" alt="WhatsApp contact" />
         </a>
+        <br>
         <img width="100%" height="400px" src="./assests/footer.gif">
 </div>
