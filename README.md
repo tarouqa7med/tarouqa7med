@@ -305,7 +305,7 @@
         </a>
         <br>
         <a href="https://www.linkedin.com/in/tarouqa7med/" width="250px">
-                <img width="250px" src="https://img.shields.io/badge/LinkedIn-%20%20Connect%20with%20me%20%20-071426?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzhCREY4IiB2aWV3Qm9xPSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDNINVYyMWgxNlYzem0tMTEgMTRINlYxMWgyVjE3em0tMS00LjU0NmMtLjYzIDAtMS4xNC0uNTEzLTEuMTQtMS4xNDFzLjUxLTEuMTQxIDEuMTQtMS4xNDFzMS4xNC41MTMgMS4xNCAxLjE0MS0uNTEgMS4xNDEtMS4xNCAxLjE0MXptMTEgNC41NDZoLTJ2LTMuNjY3YzAtLjg3My0uMDE2LTEuOTk5LTEuMjE2LTEuOTk5LTEuMjE3IDAtMS40MDMuOTUtMS40MDMgMS45MzZ2My43M2gtMlYxMWgxLjkydjEuMDg4aC4wMjdjLjI2OC0uNTA3LjkyMy0xLjA0MiAxLjkwMi0xLjA0MiAyLjAzNyAwIDIuNDEzIDEuMzQxIDIuNDEzIDMuMDg1VjE3eiIvPjwvc3ZnPg==" alt="LinkedIn profile" />
+                <img width="250px" src="https://img.shields.io/badge/LinkedIn-%20%20%20Connect%20with%20me%20%20%20-071426?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzhCREY4IiB2aWV3Qm9xPSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE5IDNINVYyMWgxNlYzem0tMTEgMTRINlYxMWgyVjE3em0tMS00LjU0NmMtLjYzIDAtMS4xNC0uNTEzLTEuMTQtMS4xNDFzLjUxLTEuMTQxIDEuMTQtMS4xNDFzMS4xNC41MTMgMS4xNCAxLjE0MS0uNTEgMS4xNDEtMS4xNCAxLjE0MXptMTEgNC41NDZoLTJ2LTMuNjY3YzAtLjg3My0uMDE2LTEuOTk5LTEuMjE2LTEuOTk5LTEuMjE3IDAtMS40MDMuOTUtMS40MDMgMS45MzZ2My43M2gtMlYxMWgxLjkydjEuMDg4aC4wMjdjLjI2OC0uNTA3LjkyMy0xLjA0MiAxLjkwMi0xLjA0MiAyLjAzNyAwIDIuNDEzIDEuMzQxIDIuNDEzIDMuMDg1VjE3eiIvPjwvc3ZnPg==" alt="LinkedIn profile" />
 </a>
         <br>
         <a href="https://www.facebook.com/tarouqa7med" width="250px">
