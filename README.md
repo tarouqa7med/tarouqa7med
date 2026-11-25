@@ -58,7 +58,7 @@
         <tr>
                 <td align="center">
                         <br>
-                        <a href="https://tarouqa7med.github.io/gGallery_Angular">
+                        <a href="https://tarouqa7med.github.io/gGallery_Angular" target="_blank">
                                 <img width="100%" src="./assests/projects_gif/gallery_angular.gif?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
