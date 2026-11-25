@@ -23,8 +23,8 @@
 <br>
 
 <div align="center">
-        <h4>Technologies & tools</h4>
-        <br><br>
+        <h3>Technologies & tools</h3>
+        <br>
         <img width="350px" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,sass,ts,angular,nodejs,git,github,php,laravel,mysql,vscode&theme=dark&perline=5" alt="Technology stack" />
         <br>
         <sub>
