@@ -309,7 +309,7 @@
 </a>
         <br>
         <a href="https://www.facebook.com/tarouqa7med" width="250px">
-                <img width="250px" src="https://img.shields.io/badge/Facebook-Follow%20me-071426?style=for-the-badge&logo=facebook&logoColor=38BDF8" alt="Facebook profile" />
+                <img width="250px" src="https://img.shields.io/badge/Facebook-F%20o%20l%20l%20o%20w%20M%20e-071426?style=for-the-badge&logo=facebook&logoColor=38BDF8" alt="Facebook profile" />
         </a>
         <br>
         <a href="https://www.instagram.com/t______m.98" width="250px">
