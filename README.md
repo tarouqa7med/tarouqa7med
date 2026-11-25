@@ -80,6 +80,7 @@
                                 <img width="100%" src="./assests/projects_gif/burger_angular.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Burger project with Angular</h3>
                         <a href="https://github.com/tarouqa7med/Burger_Angular">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -95,6 +96,7 @@
                                 <img width="100%" src="./assests/projects_gif/movixa.gif?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>MOVIXA project</h3>
                         <a href="https://github.com/tarouqa7med/MOVIXA">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -110,6 +112,7 @@
                                 <img width="100%" src="./assests/projects_gif/tm_news.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>TM_News project</h3>
                         <a href="https://github.com/tarouqa7med/TM_News">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -125,6 +128,7 @@
                                 <img width="100%" src="./assests/projects_gif/eggs_game.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Eggs Game project</h3>
                         <a href="https://github.com/tarouqa7med/Eggs_Game">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -140,6 +144,7 @@
                                 <img width="100%" src="./assests/projects_gif/l10nhouse.gif?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>L10N House project</h3>
                         <a href="https://github.com/tarouqa7med/L10N_House">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -155,6 +160,7 @@
                                 <img width="100%" src="./assests/projects_gif/delici.gif?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Delici project</h3>
                         <a href="https://github.com/tarouqa7med/Delici">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -170,6 +176,7 @@
                                 <img width="100%" src="./assests/projects_gif/nike.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Nike project</h3>
                         <a href="https://github.com/tarouqa7med/Nike">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -185,6 +192,7 @@
                                 <img width="100%" src="./assests/projects_gif/gallery.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Gallery project</h3>
                         <a href="https://github.com/tarouqa7med/Gallery">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -200,6 +208,7 @@
                                 <img width="100%" src="./assests/projects_gif/dine_out.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Dine Out project</h3>
                         <a href="https://github.com/tarouqa7med/Dine_Out">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -215,6 +224,7 @@
                                 <img width="100%" src="./assests/projects_gif/kaffa.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Kaffa project</h3>
                         <a href="https://github.com/tarouqa7med/Kaffa">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -230,6 +240,7 @@
                                 <img width="100%" src="./assests/projects_gif/gym-plus_new-design.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>GYM-Plus project with New Design</h3>
                         <a href="https://github.com/tarouqa7med/GYM-Plus_New-Design">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -245,6 +256,7 @@
                                 <img width="100%" src="./assests/projects_gif/gym-plus.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>GYM-Plus project</h3>
                         <a href="https://github.com/tarouqa7med/GYM-Plus">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -260,6 +272,7 @@
                                 <img width="100%" src="./assests/projects_gif/fokir.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Fokir project</h3>
                         <a href="https://github.com/tarouqa7med/Fokir">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
@@ -275,6 +288,7 @@
                                 <img width="100%" src="./assests/projects_gif/burger.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
                         </a>
                         <br>
+                        <h3>Burger project</h3>
                         <a href="https://github.com/tarouqa7med/Burger">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
