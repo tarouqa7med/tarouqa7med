@@ -32,7 +32,7 @@
                 <h4>Tools and technologies I work with and continue to explore.</h4>
         </sub>
 </div>
-<br><br>
+<br>
 
 <div align="center">
         <h1>GITHUB ANALYTICS</h1>
