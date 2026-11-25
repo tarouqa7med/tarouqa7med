@@ -319,6 +319,6 @@
         <a href="https://wa.me/201222897817" width="250px">
                 <img width="250px" src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-071426?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" alt="WhatsApp contact" />
         </a>
-        <br>
+        <br><br>
         <img width="100%" height="400px" src="./assests/footer.gif">
 </div>
