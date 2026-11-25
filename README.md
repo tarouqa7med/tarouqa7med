@@ -170,12 +170,110 @@
         <tr>
                 <td align="center">
                         <br>
-                        <img width="100%" src="./assests/projects_images/fokir.png?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        <a href="https://tarouqa7med.github.io/Gallery">
+                                <img width="100%" src="./assests/projects_gif/gallery.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        </a>
+                        <br>
+                        <a href="https://github.com/tarouqa7med/Gallery">
+                                <img width="100px" src="./assests/source-code.gif" />
+                        </a>
+                        <a href="https://tarouqa7med.github.io/Gallery">
+                                <img width="100px" src="./assests/demo.gif" />
+                        </a>
+                        <br>
+                </td>
+        </tr>
+        <tr>
+                <td align="center">
+                        <br>
+                        <a href="https://tarouqa7med.github.io/Dine_Out">
+                                <img width="100%" src="./assests/projects_gif/dine_out.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        </a>
+                        <br>
+                        <a href="https://github.com/tarouqa7med/Dine_Out">
+                                <img width="100px" src="./assests/source-code.gif" />
+                        </a>
+                        <a href="https://tarouqa7med.github.io/Dine_Out">
+                                <img width="100px" src="./assests/demo.gif" />
+                        </a>
+                        <br>
+                </td>
+        </tr>
+        <tr>
+                <td align="center">
+                        <br>
+                        <a href="https://tarouqa7med.github.io/Kaffa">
+                                <img width="100%" src="./assests/projects_gif/kaffa.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        </a>
+                        <br>
+                        <a href="https://github.com/tarouqa7med/Kaffa">
+                                <img width="100px" src="./assests/source-code.gif" />
+                        </a>
+                        <a href="https://tarouqa7med.github.io/Kaffa">
+                                <img width="100px" src="./assests/demo.gif" />
+                        </a>
+                        <br>
+                </td>
+        </tr>
+        <tr>
+                <td align="center">
+                        <br>
+                        <a href="https://tarouqa7med.github.io/GYM-Plus_New-Design">
+                                <img width="100%" src="./assests/projects_gif/gym-plus_new-design.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        </a>
+                        <br>
+                        <a href="https://github.com/tarouqa7med/GYM-Plus_New-Design">
+                                <img width="100px" src="./assests/source-code.gif" />
+                        </a>
+                        <a href="https://tarouqa7med.github.io/GYM-Plus_New-Design">
+                                <img width="100px" src="./assests/demo.gif" />
+                        </a>
+                        <br>
+                </td>
+        </tr>
+        <tr>
+                <td align="center">
+                        <br>
+                        <a href="https://tarouqa7med.github.io/GYM-Plus">
+                                <img width="100%" src="./assests/projects_gif/gym-plus.gif.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        </a>
+                        <br>
+                        <a href="https://github.com/tarouqa7med/GYM-Plus">
+                                <img width="100px" src="./assests/source-code.gif" />
+                        </a>
+                        <a href="https://tarouqa7med.github.io/GYM-Plus">
+                                <img width="100px" src="./assests/demo.gif" />
+                        </a>
+                        <br>
+                </td>
+        </tr>
+        <tr>
+                <td align="center">
+                        <br>
+                        <a href="https://tarouqa7med.github.io/Fokir">
+                                <img width="100%" src="./assests/projects_gif/fokir.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        </a>
                         <br>
                         <a href="https://github.com/tarouqa7med/Fokir">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
                         <a href="https://tarouqa7med.github.io/Fokir">
+                                <img width="100px" src="./assests/demo.gif" />
+                        </a>
+                        <br>
+                </td>
+        </tr>
+        <tr>
+                <td align="center">
+                        <br>
+                        <a href="https://tarouqa7med.github.io/Burger">
+                                <img width="100%" src="./assests/projects_gif/burger.gif?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" />
+                        </a>
+                        <br>
+                        <a href="https://github.com/tarouqa7med/Burger">
+                                <img width="100px" src="./assests/source-code.gif" />
+                        </a>
+                        <a href="https://tarouqa7med.github.io/Burger">
                                 <img width="100px" src="./assests/demo.gif" />
                         </a>
                         <br>
