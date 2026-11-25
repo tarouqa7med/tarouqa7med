@@ -38,10 +38,10 @@
 
 <div align="center" style="display: block;">
         <a href="https://github.com/tarouqa7med">
-                <img src="https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&hide_border=false&bg_color=071426&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
+                <img width="400px" src="https://github-readme-stats.vercel.app/api?username=tarouqa7med&show_icons=true&hide_border=false&bg_color=071426&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" />
         </a>
         <a href="https://github.com/tarouqa7med">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarouqa7med&layout=compact&hide_border=false&bg_color=071426&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages" />
+                <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarouqa7med&layout=compact&hide_border=false&bg_color=071426&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages" />
         </a>
         <img width="500px" src="https://streak-stats.demolab.com?user=tarouqa7med&hide_border=true&background=071426&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
 </div>
