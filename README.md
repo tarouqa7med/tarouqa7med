@@ -65,7 +65,7 @@
                         <a href="https://github.com/tarouqa7med/Gallery_Angular">
                                 <img width="100px" src="./assests/source-code.gif" />
                         </a>
-                        <a href="https://tarouqa7med.github.io/gGallery_Angular">
+                        <a href="https://tarouqa7med.github.io/Gallery_Angular">
                                 <img width="100px" src="./assests/demo.gif" />
                         </a>
                         <br>
